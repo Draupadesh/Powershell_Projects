@@ -1,0 +1,21 @@
+constructor
+polymorphism
+static 
+interface and abstraction
+life cycle in mvc
+filter 
+rendersection
+view model
+view start
+session in mvc
+view 
+cte and table variable 
+trigger
+i=i
+deadlock-nolock
+view dml
+static constant readonly
+stateless -one req ---response connection closed for that session.
+codebeatify
+ philos
+https://app.diagrams.net/
